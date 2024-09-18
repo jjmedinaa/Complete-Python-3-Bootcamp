@@ -35,7 +35,7 @@ def pdf_to_table(pdf_path):
     return table
 
 # Example usage
-pdf_file_path = 'C:/Users/jjmed/OneDrive/Documentos/Courses/Python Z to H/Complete-Python-3-Bootcamp/111-Tests/NFL23_CS_PPR.pdf'
+pdf_file_path = 'C:/Users/jjmed/OneDrive/Documentos/Courses/Python Z to H/Complete-Python-3-Bootcamp/999-Tests/example_table.pdf'
 result_table = pdf_to_table(pdf_file_path)
 
 # Display the first few rows of the table
